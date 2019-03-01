@@ -1,0 +1,49 @@
+/* default paragraph */
+p {
+  font-family: 'Raleway', sans-serif;
+  font-weight: bolder;
+  line-height: 2;
+}
+
+/* default h5 */
+h5 {
+  margin-left: 10px;
+  font-family: 'Cinzel', serif;
+  font-size: 4vw;
+  font-weight: bold;
+  color: #c5ecbe;
+}
+
+/* default h3 */
+h3 {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+}
+body{
+  text-align: center;
+  background-color: #f8f3d4;
+}
+#details-head{
+  background-color: #00b8a9;
+}
+#package1{
+  padding: 4rem 1rem;
+}
+#package2{
+  background-color: #00b8a9;
+  color: #f8f3d4;
+  padding: 4rem 1rem;
+}
+#package3{
+  padding: 4rem 1rem;
+}
+.main-head{
+  padding:10% 0;
+  margin: 0;
+}
+.package-body{
+  margin:2% 10%;
+}
+.row{
+  margin: 0;
+}
